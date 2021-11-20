@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Andure - DevTools for Android Chrome
 // @description     Adds devtools to a page, shake phone to activate
-// @version         1.0.0.5-shake
+// @version         1.0.5-shake
 // @author         Haskel
 // @match        *://*/*
 // @grant           property:settings
