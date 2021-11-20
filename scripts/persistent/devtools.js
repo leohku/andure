@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Andure - DevTools for Android Chrome
 // @description     Adds persistent devtools to a page
-// @version         1.0.0.5-persistent
+// @version         1.0.5-persistent
 // @author         Haskel
 // @match        *://*/*
 // @grant           property:settings
