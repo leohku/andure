@@ -16,9 +16,9 @@ To install, follow the [installation](#installation) section below.
 
 ## Demo
 
-```
-TODO: Insert demo video
-```
+
+https://user-images.githubusercontent.com/63468786/142805132-b0218b46-12e4-4049-b888-bb0b4d5826e6.mov
+
 
 ## Features
 
