@@ -14,11 +14,11 @@ To start DevTools for a website, **simply shake your phone** and a prompt will a
 
 To install, follow the [installation](#installation) section below.
 
-## Demo
+## 1-Minute Demo
 
+https://user-images.githubusercontent.com/63468786/142807725-0489edc5-0d50-4245-9d53-7a26079c290c.mov
 
-https://user-images.githubusercontent.com/63468786/142805132-b0218b46-12e4-4049-b888-bb0b4d5826e6.mov
-
+Visit [https://youtu.be/fVCdcvZ7Cv8](https://youtu.be/fVCdcvZ7Cv8) if the above video cannot be played.
 
 ## Features
 
@@ -52,4 +52,4 @@ See [eruda docs](https://github.com/liriliri/eruda#Features) for more features.
 
 ## Contributing
 
-Please visit the [contributing guidelines](https://github.com/leohku/andure/blob/main/CONTRIBUTING.md).
+Please visit the [contributing guidelines](https://github.com/leohku/andure/blob/main/CONTRIBUTING.md) and feel free to join our [discord server](https://discord.gg/qGUXpVBqW5)!
