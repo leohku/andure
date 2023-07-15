@@ -5,6 +5,8 @@
 ![Version: v1.0.5](https://img.shields.io/badge/version-v1.0.5-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
+> ❗ Andure also works without AdGuard! You can download **Bromite Browser** and inject Andure's persistent userscript into the browser via the settings. Thanks to [@porobertdev](https://github.com/porobertdev) who made the discovery.
+
 Based on [eruda](https://github.com/liriliri/eruda), **andure** dynamically injects web-based DevTools into any website through a local VPN tunnel (using [AdGuard HTTPS filtering](https://adguard.com/en/blog/everything-about-https-filtering.html)), allowing for inspection and debugging similar to desktop Chromium DevTools.
 
 To start DevTools for a website, **simply shake your phone** and a prompt will appear.
